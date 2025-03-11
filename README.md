@@ -3,9 +3,13 @@ Blockchain Freelance Contract Project
 This project is a blockchain-based freelance contract platform that allows secure contract creation, management, and validation using Ethereum smart contracts. It includes a Streamlit-based frontend, a smart contract written in Solidity, and a Python backend to handle blockchain interactions.
 
 ├── app.py                    # Streamlit app for user interaction
+
 ├── blockchain_interface.py    # Handles blockchain interactions
+
 ├── compile_contract.py        # Compiles the Solidity contract
+
 ├── FreelanceContract.sol      # Solidity smart contract
+
 ├── FreelanceContract.json     # Compiled contract ABI
 
 🛠️ Dependencies
