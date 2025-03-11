@@ -1,6 +1,6 @@
 # 🚀 Blockchain Freelancing Platform for Secure Payments and Skill-Based Project Matching Using NLP
 
-This project is a blockchain-based freelance contract platform that allows secure contract creation, management, and validation using Ethereum smart contracts. It includes a **Streamlit-based frontend**, a **Solidity smart contract**, and a **Python backend** to handle blockchain interactions.
+This project is a **blockchain-based freelancing platform** that ensures **secure and automated transactions** between clients and freelancers using **smart contracts**. It leverages **NLP-based algorithms** to match freelancers with projects based on their **skills, experience, and client requirements**. The platform features a ranking system to ensure the right freelancer is chosen for the right job and allows seamless contract creation, management, and validation without third-party intervention.
 
 ---
 
